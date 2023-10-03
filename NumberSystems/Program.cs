@@ -117,6 +117,11 @@ while (run)
         //declare number system of input
         Console.WriteLine("Choose the number system of your input! 1. deci 2. binary 3. octa 4. hexa");
         int firstSystem = Convert.ToInt32(Console.ReadLine()); //1. deci 2. binary 3. octa 4. hexa
+        if(firstSystem == 5)
+        {
+            Console.Write("Terminating Program...");
+            break;
+        }
         currentsystem = firstSystem;
         Console.WriteLine("Enter your input:");
         string input = Console.ReadLine();
@@ -168,6 +173,11 @@ while (run)
                 Console.WriteLine("Enter a valid hexadecimal number!");
                 continue;
             }
+        }
+        else
+        {
+            Console.WriteLine("Not Available!");
+            continue;
         }
 
 
