@@ -115,7 +115,7 @@ while (run)
     else
     {
         //declare number system of input
-        Console.WriteLine("Choose the number system of your input! 1. deci 2. binary 3. octa 4. hexa");
+        Console.WriteLine("Choose the number system of your input! 1. deci 2. binary 3. octa 4. hexa 5. Exit");
         int firstSystem = Convert.ToInt32(Console.ReadLine()); //1. deci 2. binary 3. octa 4. hexa
         if(firstSystem == 5)
         {
