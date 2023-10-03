@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhonray Acojedo\\Jhonray\\Practice\\delete\\NumberSystems\\NumberSystems.csproj": {}
+    "C:\\Users\\Jhonray Acojedo\\Jhonray\\school\\DataCom\\NumberSystems\\NumberSystems\\NumberSystems.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhonray Acojedo\\Jhonray\\Practice\\delete\\NumberSystems\\NumberSystems.csproj": {
+    "C:\\Users\\Jhonray Acojedo\\Jhonray\\school\\DataCom\\NumberSystems\\NumberSystems\\NumberSystems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhonray Acojedo\\Jhonray\\Practice\\delete\\NumberSystems\\NumberSystems.csproj",
+        "projectUniqueName": "C:\\Users\\Jhonray Acojedo\\Jhonray\\school\\DataCom\\NumberSystems\\NumberSystems\\NumberSystems.csproj",
         "projectName": "NumberSystems",
-        "projectPath": "C:\\Users\\Jhonray Acojedo\\Jhonray\\Practice\\delete\\NumberSystems\\NumberSystems.csproj",
+        "projectPath": "C:\\Users\\Jhonray Acojedo\\Jhonray\\school\\DataCom\\NumberSystems\\NumberSystems\\NumberSystems.csproj",
         "packagesPath": "C:\\Users\\Jhonray Acojedo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhonray Acojedo\\Jhonray\\Practice\\delete\\NumberSystems\\obj\\",
+        "outputPath": "C:\\Users\\Jhonray Acojedo\\Jhonray\\school\\DataCom\\NumberSystems\\NumberSystems\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhonray Acojedo\\AppData\\Roaming\\NuGet\\NuGet.Config",
